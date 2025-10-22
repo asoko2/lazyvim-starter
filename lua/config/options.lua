@@ -3,3 +3,6 @@
 -- Add any additional options here
 vim.g.snacks_animate = false
 vim.opt.scrolloff = 8
+vim.opt.wrap = true
+vim.opt.breakindent = true
+vim.opt.showbreak = "↪ " -- Example: an arrow symbol

@@ -6,9 +6,11 @@ return {
       vim.list_extend(opts.ensure_installed, {
         "tsx",
         "typescript",
+        "javascript",
         "blade",
         "php",
         "html",
+        "go",
       })
     end,
   },
